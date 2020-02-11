@@ -1,7 +1,9 @@
-import Modal from './Modal';
+import Buttons from './Buttons';
+import Checkbox from './Checkbox';
 
 const Inputs = {
-  Modal,
+  Buttons,
+  Checkbox,
 };
 
 export default Inputs;
