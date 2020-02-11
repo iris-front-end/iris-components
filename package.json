@@ -4,7 +4,7 @@
   "description": "Iris components",
   "author": "nunesd",
   "license": "MIT",
-  "repository": "nunesd/iris-components",
+  "repository": "iris-front-end/iris-components",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
